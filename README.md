@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @febbyviolen
 - 👀 I’m interested in a lot of stuff
-- 🌱 iOs | swift | swiftUI 
+- 🌱 iOs | swift 
 - 📫 febbyviolen@gmail.com
 - 🎓 건국대학교 컴퓨터공학과 (09월 2019 ~ )
 
