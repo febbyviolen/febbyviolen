@@ -5,5 +5,4 @@
 
 ---
 
-[👾 Febby's Tech Diary 👾](https://febbyviolen.notion.site/Febby-s-Tech-Diary-a1b296fd7bbe43e6a993009e7929d973)
 
