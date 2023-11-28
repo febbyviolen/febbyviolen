@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @febbyviolen
-- 🌱 iOs | swift 
+- 🌱 Mobile app developer (iOS)
 - 📫 febbyviolen@gmail.com
 - 🎓 건국대학교 컴퓨터공학과 (2019년 09월 ~ 2023년 08월)
 
